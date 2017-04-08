@@ -40,7 +40,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .demographics-section {
-    height: 100%;
+    height: 170%;
     padding-top: 50px;
     text-align: center;
     background-image: url("https://s-media-cache-ak0.pinimg.com/originals/22/61/c0/2261c01c4999fab8466f0e88c1a21cd9.jpg");
@@ -54,7 +54,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .need-section {
-    height: 100%;
+    height: 225%;
     padding-top: 50px;
     text-align: center;
     background-image: url("https://s-media-cache-ak0.pinimg.com/originals/9a/91/6b/9a916b1ecd49ce861e0bc424dfea4cf1.jpg");
@@ -69,8 +69,8 @@ of those sections to manage the look and feel of the site. */
 }
 
 .contact-section {
-    height: 75%;
-    padding-top: 150px;
+    height: 40%;
+    padding-top: 40px;
     text-align: center;
     background-image: url("https://s-media-cache-ak0.pinimg.com/originals/be/2a/94/be2a940c4ac312bf5abc0aa9677749de.jpg");
 }
