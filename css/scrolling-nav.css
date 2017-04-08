@@ -32,43 +32,45 @@ The padding is very important to make sure the scrollspy picks up the right area
 of those sections to manage the look and feel of the site. */
 
 .intro-section {
-    height: 100%;
+    height: 120%;
     padding-top: 150px;
     text-align: center;
-    background: #fff;
+    background-image: url("http://s4.favim.com/orig/140528/art-artsy-beautiful-blackandwhite-Favim.com-1797774.jpg");
+    background-size: 100% 100%;
 }
 
 .demographics-section {
-    height: 100%;
-    padding-top: 150px;
+    height: 170%;
+    padding-top: 50px;
     text-align: center;
-    background: #D8DDEF;
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/22/61/c0/2261c01c4999fab8466f0e88c1a21cd9.jpg");
 }
 
-.reality-section {
-    height: 100%;
-    padding-top: 150px;
+.market-section {
+    height: 110%;
+    padding-top: 50px;
     text-align: center;
-    background: #A0A4B8;
+    background-image: url("http://www.snazzyspace.com/wallpapers/ff96b9_pastel-sky.png");
 }
 
 .need-section {
-    height: 100%;
-    padding-top: 150px;
+    height: 225%;
+    padding-top: 50px;
     text-align: center;
-    background: #8E79C6;
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/9a/91/6b/9a916b1ecd49ce861e0bc424dfea4cf1.jpg");
 }
 
 .app-section {
-    height: 100%;
-    padding-top: 150px;
+    height: 160%;
+    padding-top: 50px;
     text-align: center;
-    background: #617689;
+    background-image: url("https://68.media.tumblr.com/a53580a45741d64abc9374484c2cee9e/tumblr_o0a5dvbyd11txt22yo1_500.gif");
+    background-size: 100% 100%;
 }
 
 .contact-section {
-    height: 75%;
-    padding-top: 150px;
+    height: 40%;
+    padding-top: 40px;
     text-align: center;
-    background: #6DBF9C;
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/be/2a/94/be2a940c4ac312bf5abc0aa9677749de.jpg");
 }
