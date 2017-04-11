@@ -1,5 +1,7 @@
 ## Introducing, Crimsen
-An inclusive period tracking app
+Crimsen is a period tracking app designed to be inclusive of the experiences of queer women and trans/non-binary people who experience menstruation.
+
+Our product website and wireframes were built within a matter of hours at [BuildHer 2017](http://buildher.io/), and we won the award for [Best Interdiscliplinary Hack](https://devpost.com/software/crimsen)!
 
 ## Copyright and License
 
